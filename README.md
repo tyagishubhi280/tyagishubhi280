@@ -1,8 +1,8 @@
 <div align="center">
 
-# TYAGI SHUBHI
+# SHUBHAM TYAGI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pduration=2000&duration=3500&color=00FF9C&center=true&vCenter=true&width=600&lines=%2F%2F+CYBERSECURITY+%26+CS+STUDENT;%2F%2F+learning+%7C+building+%7C+breaking+ethically;%2F%2F+open+to+collaborate" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pduration=2000&duration=3500&color=00FF9C&center=true&vCenter=true&width=600&lines=%2F%2F+FULL-STACK+DEVELOPER+IN+THE+MAKING;%2F%2F+Java+%7C+Backend+%7C+Frontend;%2F%2F+learning+%7C+building+%7C+shipping" alt="typing animation" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tyagishubhi280&color=00ff9c&style=flat-square&label=VIEWS)
 ![Followers](https://img.shields.io/github/followers/tyagishubhi280?style=flat-square&color=00ff9c&labelColor=0d1117)
@@ -11,10 +11,10 @@
 
 ```text
 $ whoami
-tyagishubhi280 :: B.Tech CSE student
+tyagishubhi280 :: B.Tech CSE student :: backend + frontend developer
 
 $ cat /etc/mission
-Learn fast. Build in public. Secure everything.
+Build clean backends. Craft smooth frontends. Ship real projects.
 ```
 
 <div align="center">
@@ -27,14 +27,14 @@ Learn fast. Build in public. Secure everything.
 
 ---
 
-## ▌ OPERATOR FILE
+## ▌ DEVELOPER FILE
 
 ```text
 ┌──────────────────────────────────────────────┐
-│ OPERATOR  :: Tyagi Shubhi                    │
-│ ROLE      :: Student / Developer             │
-│ FOCUS     :: Security, Backend, Web          │
-│ STACK     :: Python, SQL, C, JavaScript      │
+│ DEVELOPER :: Shubham Tyagi                   │
+│ ROLE      :: Student / Full-Stack Developer  │
+│ FOCUS     :: Backend (Java), Frontend, APIs  │
+│ STACK     :: Java, JavaScript, HTML, CSS, SQL│
 │ STATUS    :: ● Learning in public            │
 └──────────────────────────────────────────────┘
 ```
@@ -43,11 +43,11 @@ Learn fast. Build in public. Secure everything.
 
 | Domain | What I'm working on | Status |
 |:--|:--|:--:|
-| Programming | Python, C, problem solving | 🟢 Active |
-| Web Dev | HTML, CSS, JavaScript | 🟢 Active |
-| Databases | SQL fundamentals | 🟡 Learning |
-| Networking | Wireshark, Nmap basics | 🟡 Learning |
-| Cyber Security | CTFs, TryHackMe | ⚪ Next up |
+| Backend | Java, OOP, REST APIs | 🟢 Active |
+| Frontend | HTML, CSS, JavaScript | 🟢 Active |
+| Databases | SQL fundamentals, queries, joins | 🟡 Learning |
+| Frameworks | Spring Boot, React | ⚪ Next up |
+| Tools | Git, GitHub, Postman | 🟡 Learning |
 
 > 🟢 Active &nbsp;·&nbsp; 🟡 Learning &nbsp;·&nbsp; ⚪ Next up
 
@@ -55,14 +55,16 @@ Learn fast. Build in public. Secure everything.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Java](https://img.shields.io/badge/JAVA-0d1117?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Spring](https://img.shields.io/badge/SPRING_BOOT-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![React](https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_CODE-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
@@ -81,15 +83,24 @@ Learn fast. Build in public. Secure everything.
 
 ## ▌ MISSION ROADMAP // 2026
 
-- [ ] Finish SQL fundamentals
-- [ ] Build and publish 2–3 projects
-- [ ] Start TryHackMe learning paths
-- [ ] Commit consistently and keep repos documented
+**Backend**
+- [ ] Master Java OOP and collections
+- [ ] Learn Spring Boot and build a REST API
+- [ ] Finish SQL fundamentals and connect a database
+
+**Frontend**
+- [ ] Build responsive pages with HTML, CSS and JavaScript
+- [ ] Learn React and connect it to my own API
+
+**Ship it**
+- [ ] Publish 2–3 full-stack projects with clear READMEs
+- [ ] Commit consistently
 
 ---
 
 <div align="center">
 
-<sub>⚠️ For learning and ethical, authorised practice only.</sub>
+<sub>Always learning. Always building.</sub>
 
 </div>
+
